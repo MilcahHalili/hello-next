@@ -9817,7 +9817,7 @@ var Page = function Page(props) {
 
 /***/ }),
 
-/***/ 2:
+/***/ 0:
 /*!***********************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fpost&absolutePagePath=%2FUsers%2Fmilcahcenteno%2Fcode%2Fhello-next%2Fpages%2Fpost.js ***!
   \***********************************************************************************************************************************/
@@ -9840,5 +9840,5 @@ module.exports = dll_6dc2816e14fab51b8269;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=post.js.map
